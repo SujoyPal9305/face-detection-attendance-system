@@ -1129,6 +1129,50 @@ See [LICENSE](LICENSE) file for full details.
 
 -  **GitHub**: [@SujoyPal9305](https://github.com/SujoyPal9305)
 -  **Email**: sujoypal9305@gmail.com
+-  **Alternate Email**: sujoyp.cse@yahoo.com
+-  **Repository**: https://github.com/SujoyPal9305/face-detection-attendance-system
+
+-  Project Information
+
+Course: Computer Vision
+Institution: [VIT Bhopal University]
+Academic Year: 2025-2026
+Project Type: Course Project
+
+---
+
+## Acknowledgments
+
+**Special Thanks To**
+
+OpenCV Team: For the excellent computer vision library
+Adam Geitgey: For the face_recognition library
+Python Community: For comprehensive documentation and support
+Course Instructors: For project guidance and support
+Open Source Contributors: For inspiration and code references
+
+**Tools & Platforms**
+
+GitHub: For version control and collaboration
+VS Code: Development environment
+Stack Overflow: Community support
+Python.org: Language documentation
+
+**Learning Resources**
+
+PyImageSearch: Computer vision tutorials
+Real Python: Python best practices
+Towards Data Science: ML/AI articles
+
+<div align="center">
+Star this repository if you find it helpful! 
+Made by Sujoy Pal
+© 2025 Face Detection Attendance System. All Rights Reserved.
+</div>
+"@ | Out-File -FilePath README.md -Encoding utf8
+Write-Host "[SUCCESS] README.md has been updated!" -ForegroundColor Green
+Write-Host "[INFO] Reviewing changes..." -ForegroundColor Yellow
+
 
 
 
