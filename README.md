@@ -1,6 +1,3 @@
-# face-detection-attendance-system
-Automated attendance system that eliminates manual roll calls by recognizing faces in real-time. Features include new user registration, face recognition with confidence scoring, and attendance record management for educational institutions and workplaces.
-
 @"
 # Face Detection Attendance System 
 
@@ -9,7 +6,7 @@ Automated attendance system that eliminates manual roll calls by recognizing fac
 ![License](https://img.shields.io/badge/license-MIT-yellow)
 ![Status](https://img.shields.io/badge/status-active-success)
 
-Real-time face detection and recognition system that automates attendance marking using computer vision. Built with OpenCV and Python, it captures faces via webcam, identifies registered users, and logs attendance with timestamps in a CSV database.
+Automated attendance system that eliminates manual roll calls by recognizing faces in real-time using computer vision. Features include new user registration, face recognition with confidence scoring, and attendance record management for educational institutions and workplaces. Built with OpenCV and Python, it captures faces via webcam, identifies registered users, and logs attendance with timestamps in a CSV database.
 
 **Designed as a comprehensive course project demonstrating applied concepts in computer vision, software design, and practical application development.**
 
@@ -1133,3 +1130,4 @@ See [LICENSE](LICENSE) file for full details.
 
 -  **GitHub**: [@SujoyPal9305](https://github.com/SujoyPal9305)
 -  **Email**: sujoypal9305@gmail.com
+
