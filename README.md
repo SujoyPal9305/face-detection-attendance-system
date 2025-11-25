@@ -962,7 +962,7 @@ If you encounter issues not listed here:
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 ### Planned Features
 
@@ -1129,6 +1129,7 @@ See [LICENSE](LICENSE) file for full details.
 
 -  **GitHub**: [@SujoyPal9305](https://github.com/SujoyPal9305)
 -  **Email**: sujoypal9305@gmail.com
+
 
 
 
