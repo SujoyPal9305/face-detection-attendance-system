@@ -1,4 +1,3 @@
-@"
 # Face Detection Attendance System 
 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
@@ -1130,4 +1129,5 @@ See [LICENSE](LICENSE) file for full details.
 
 -  **GitHub**: [@SujoyPal9305](https://github.com/SujoyPal9305)
 -  **Email**: sujoypal9305@gmail.com
+
 
