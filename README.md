@@ -87,7 +87,7 @@ An **automated face recognition-based attendance system** that:
 4. Maintains digital records with timestamps
 5. Generates comprehensive reports for analysis
 
-**📄 See [statement.md](statement.md) for complete problem statement and project scope.**
+** See [statement.md](statement.md) for complete problem statement and project scope.**
 
 ---
 
@@ -598,7 +598,7 @@ Date Range: 2025-11-01 to 2025-11-26
 
 ---
 
-## 🔬 Testing & Validation
+##  Testing & Validation
 
 ### Test Categories
 
@@ -645,13 +645,13 @@ python tests/test_face_detection.py
 
 | Test Case | Expected | Actual | Status |
 |-----------|----------|--------|--------|
-| Single face detection | Detected | Detected | ✅ Pass |
-| Recognition accuracy | >90% | 95.3% | ✅ Pass |
-| Duplicate prevention | Blocked | Blocked | ✅ Pass |
-| Unknown face handling | Unknown label | Unknown label | ✅ Pass |
-| Error handling | Graceful | Graceful | ✅ Pass |
+| Single face detection | Detected | Detected |  Pass |
+| Recognition accuracy | >90% | 95.3% |  Pass |
+| Duplicate prevention | Blocked | Blocked |  Pass |
+| Unknown face handling | Unknown label | Unknown label |  Pass |
+| Error handling | Graceful | Graceful |  Pass |
 
-**📄 See /tests folder for complete test scripts and results.**
+** See /tests folder for complete test scripts and results.**
 
 ---
 
@@ -1111,23 +1111,24 @@ This project is licensed under the **MIT License**.
 
 ### MIT License Summary
 
-✅ Commercial use  
-✅ Modification  
-✅ Distribution  
-✅ Private use  
+ Commercial use  
+ Modification  
+ Distribution  
+ Private use  
 
-❌ Liability  
-❌ Warranty  
+ Liability  
+ Warranty  
 
 See [LICENSE](LICENSE) file for full details.
 
 ---
 
-## 👤 Contact
+##  Contact
 
 **Sujoy Pal**
 
 -  **GitHub**: [@SujoyPal9305](https://github.com/SujoyPal9305)
 -  **Email**: sujoypal9305@gmail.com
+
 
 
