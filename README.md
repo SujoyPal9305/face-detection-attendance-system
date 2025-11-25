@@ -1166,12 +1166,11 @@ Towards Data Science: ML/AI articles
 
 <div align="center">
 Star this repository if you find it helpful! 
+ 
 Made by Sujoy Pal
+ 
 © 2025 Face Detection Attendance System. All Rights Reserved.
-</div>
-"@ | Out-File -FilePath README.md -Encoding utf8
-Write-Host "[SUCCESS] README.md has been updated!" -ForegroundColor Green
-Write-Host "[INFO] Reviewing changes..." -ForegroundColor Yellow
+
 
 
 
